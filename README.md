@@ -4,15 +4,15 @@
 
 • 👩‍💻**Name**: Leyre de la Calzada
 
-• 🏠**From**: Barcelona, currently living in 🏙️ Madrid
+• 🏠**From**: Barcelona, currently living in Madrid
 
 • 🌐**Profession**: Cloud Solution Architect at Microsoft
 
 • 🎓**Education**: MSc in Data Science Student at UNAV
 
-• 🗣️**Languages I Speak**: Spanish,Catalan,English 
+• 🗣️**Languages I Speak**: Spanish, Catalan and English 
 
-• 🏃‍♀️**Hobbies**: Running, Skiing, Cycling
+• 🏃‍♀️**Hobbies**: Running, Skiing and Cycling
 ##
 ### 👩‍💻Python Version👩‍💻
 

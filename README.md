@@ -1,4 +1,7 @@
-## ⭐⭐⭐About Me⭐⭐⭐
+## Hi there👋I'm Leyre de la Calzada, a Cloud Solution Architect @Microsoft
+
+### ⭐About Me⭐
+
 • 👩‍💻**Name**: Leyre de la Calzada
 
 • 🏠**From**: Barcelona, currently living in 🏙️ Madrid
@@ -10,18 +13,10 @@
 • 🗣️**Languages I Speak**: 🇪🇸 Spanish, 🇦🇩 Catalan, us English 
 
 • 🏃‍♀️**Hobbies**: Running, Skiing, Cycling
-
-<div id="badges">
-  <a href="(https://www.linkedin.com/in/leyredelacalzada)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:leyre.calzadalonso@gmail.com?subject=Mail from our Website">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
+##
+### 👩‍💻Python Version👩‍💻
 
 ```python
-# Hi there👋 
 # Here you have the Python version as well ;)
 class Bio:
     def __init__(my):
@@ -38,5 +33,21 @@ class Bio:
                 f"I speak {', '.join(my.languages)}. In my free time, I enjoy {', '.join(my.hobbies)}.")
 bio = Bio()
 print(bio.introduce())
+
+```
+
+##
+### ✉️Connect with me✉️
+
+<div id="badges">
+  <a href="(https://www.linkedin.com/in/leyredelacalzada)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:leyre.calzadalonso@gmail.com?subject=Mail from our Website">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+
+
 
 

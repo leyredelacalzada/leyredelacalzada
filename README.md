@@ -40,7 +40,7 @@ print(bio.introduce())
 ### ✉️Connect with me✉️
 
 <div id="badges">
-  <a href="(https://www.linkedin.com/in/leyredelacalzada)">
+  <a href="(www.linkedin.com/in/leyredelacalzada)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:leyre.calzadalonso@gmail.com?subject=Mail from our Website">

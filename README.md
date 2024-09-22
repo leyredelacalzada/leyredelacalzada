@@ -1,14 +1,35 @@
-# ⭐⭐⭐About Me⭐⭐⭐
+## ⭐⭐⭐About Me⭐⭐⭐
+• 👩‍💻**Name**: Leyre de la Calzada
+
+• 🏠**From**: Barcelona, currently living in 🏙️ Madrid
+
+• 🌐**Profession**: Cloud Solution Architect at Microsoft
+
+• 🎓**Education**: MSc in Data Science Student at UNAV
+
+• 🗣️**Languages I Speak**: 🇪🇸 Spanish, 🇦🇩 Catalan, us English 
+
+• 🏃‍♀️**Hobbies**: Running, Skiing, Cycling
+
+<div id="badges">
+  <a href="(https://www.linkedin.com/in/leyredelacalzada)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:leyre.calzadalonso@gmail.com?subject=Mail from our Website">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+
 ```python
 # Hi there👋 
-# Here you'll be able to find out more about me ;) 
+# Here you have the Python version as well ;)
 class Bio:
     def __init__(my):
         my.name = "Leyre de la Calzada"
         my.location = {"Hometown": "Barcelona", "Current": "Madrid"}
         my.profession = "Cloud Solution Architect at Microsoft"
         my.education = "MSc in Data Science Student at UNAV"
-        my.languages = ["Spanish", "Catalan", "English", "French"]
+        my.languages = ["Spanish", "Catalan", "English"]
         my.hobbies = ["Running", "Skiing", "Cycling"]
 
     def introduce(my):

@@ -10,7 +10,7 @@
 
 • 🎓**Education**: MSc in Data Science Student at UNAV
 
-• 🗣️**Languages I Speak**: 🇪🇸 Spanish, 🇦🇩 Catalan, us English 
+• 🗣️**Languages I Speak**: Spanish,Catalan,English 
 
 • 🏃‍♀️**Hobbies**: Running, Skiing, Cycling
 ##

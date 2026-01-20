@@ -10,7 +10,7 @@
 
 • 🎓**Education**: MSc in Data Science Student at UNAV
 
-• 🗣️**Languages I Speak**: Spanish, Catalan and English 
+• 🗣️**Languages I Speak**: Spanish, Catalan, English and a bit of French and Italian
 
 • 🏃‍♀️**Hobbies**: Running, Skiing and Cycling
 ##
@@ -24,7 +24,7 @@ class Bio:
         my.location = {"Hometown": "Barcelona", "Current": "Madrid"}
         my.profession = "Cloud Solution Architect at Microsoft"
         my.education = "MSc in Data Science Student at UNAV"
-        my.languages = ["Spanish", "Catalan", "English"]
+        my.languages = ["Spanish", "Catalan", "English", "Italian", "French"]
         my.hobbies = ["Running", "Skiing", "Cycling"]
 
     def introduce(my):

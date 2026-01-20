@@ -12,7 +12,7 @@
 
 • 🗣️**Languages I Speak**: Spanish, Catalan, English and a bit of French and Italian
 
-• 🏃‍♀️**Hobbies**: Running, Skiing and Cycling
+• 🏃‍♀️**Hobbies**: Triathlon and Skiing
 ##
 ### 👩‍💻Python Version👩‍💻
 
@@ -25,7 +25,7 @@ class Bio:
         my.profession = "Cloud Solution Architect at Microsoft"
         my.education = "MSc in Data Science Student at UNAV"
         my.languages = ["Spanish", "Catalan", "English", "Italian", "French"]
-        my.hobbies = ["Running", "Skiing", "Cycling"]
+        my.hobbies = ["RTriathlon", "Skiing"]
 
     def introduce(my):
         return (f"Hi! I'm {my.name}, a {my.profession}, currently based in {my.location['Current']}. "

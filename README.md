@@ -25,7 +25,7 @@ class Bio:
         my.profession = "Cloud Solution Architect at Microsoft"
         my.education = "MSc in Data Science Student at UNAV"
         my.languages = ["Spanish", "Catalan", "English", "Italian", "French"]
-        my.hobbies = ["RTriathlon", "Skiing"]
+        my.hobbies = ["Triathlon", "Skiing"]
 
     def introduce(my):
         return (f"Hi! I'm {my.name}, a {my.profession}, currently based in {my.location['Current']}. "
